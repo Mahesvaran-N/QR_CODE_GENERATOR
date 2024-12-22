@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/css/main.3b288dde.css",
+    "main.js": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/js/main.7774637f.js",
+    "static/js/453.bf98cd8f.chunk.js": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/js/453.bf98cd8f.chunk.js",
+    "index.html": "/Mahesvaran-N/QR_CODE_GENERATOR.git/index.html",
+    "main.3b288dde.css.map": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/css/main.3b288dde.css.map",
+    "main.7774637f.js.map": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/js/main.7774637f.js.map",
+    "453.bf98cd8f.chunk.js.map": "/Mahesvaran-N/QR_CODE_GENERATOR.git/static/js/453.bf98cd8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b288dde.css",
+    "static/js/main.7774637f.js"
+  ]
+}
